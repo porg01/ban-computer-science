@@ -1,2 +1,2 @@
-# ban-computer science
+# ban-cs
 petition to ban computer science 
